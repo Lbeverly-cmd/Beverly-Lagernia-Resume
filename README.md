@@ -25,6 +25,6 @@ Results-oriented professional with **over 19 years of experience** at Elevance H
 
 ## 📫 Contact Me
 * **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email]
-* **Availability:** * Wed/Thu: 9 AM - 5 PM
+* **Email:** lagernia@gmail.com
+* **Availability:** * Mon/Thu: 9 AM - 5 PM
   * Fri: After 11:30 AM
