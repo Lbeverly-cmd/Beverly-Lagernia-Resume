@@ -1,2 +1,2 @@
 # Beverly-Lagernia-Resume
-Data Analyst Resume
+Data Analyst I Resume
