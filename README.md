@@ -19,6 +19,7 @@
 ---
 
 ### 📬 Contact & Links
+### 📬 Contact & Links
 - **LinkedIn:** [linkedin.com/in/lbeverly-cmd](https://www.linkedin.com/in/lbeverly-cmd)
 - **Location:** Boston, MA
 - **Availability:** Open to Data Analyst I and Business Systems opportunities.
