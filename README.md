@@ -1,4 +1,4 @@
-# Lagernia Beverly | Data Analyst I
+# Lagernia M Beverly | Data Analyst I
 **Results-oriented professional with 19+ years of experience specializing in SQL data discovery, business systems, and compliance reporting.**
 
 ---
