@@ -20,6 +20,6 @@
 
 ### 📬 Contact & Links
 ### 📬 Contact & Links
-- **LinkedIn:** [linkedin.com/in/lbeverly-cmd](https://www.linkedin.com/in/lbeverly-cmd)
+- **LinkedIn:** [linkedin.com/in/niabeverly/](https://www.linkedin.com/in/niabeverly/)
 - **Location:** Boston, MA
 - **Availability:** Open to Data Analyst I and Business Systems opportunities.
