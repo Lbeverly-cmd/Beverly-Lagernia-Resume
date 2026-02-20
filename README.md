@@ -12,13 +12,13 @@
 
 ---
 
-### 📁 Repository Contents### 📁 Repository Contents
+### 📁 Repository Contents### 
 - **[Latest Resume (PDF)](./Lagernia%20M%20Beverly_Data%20Analyst%20I.pdf)** - Optimized for Department of Revenue & EOHHS standards.
 - **Project Documentation**
   - [SQL Revenue Analysis](./sql-samples/revenue_analysis.sql): Advanced joins and revenue aggregation.
   - [UAT Testing Template](./docs/UAT-Template.md): Framework for data validation and integrity checks.
 
----sql-samples/revenue_analysis.sql)**: - **Project Documentation**
+**Project Documentation**
   - [SQL Revenue Analysis](./sql-samples/revenue_analysis.sql): Advanced joins and revenue aggregation.
   - [UAT Testing Template](./docs/UAT-Template.md): Framework for data validation and integrity checks.
 
